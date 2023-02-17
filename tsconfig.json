@@ -1,0 +1,11 @@
+{
+	"include": ["src/**/*.js"],
+	"compilerOptions": {
+		"declaration": true,
+		"allowJs": true,
+		"declarationDir": "types",
+		"emitDeclarationOnly": true,
+		"isolatedModules": true,
+		"declarationMap": true
+	}
+}

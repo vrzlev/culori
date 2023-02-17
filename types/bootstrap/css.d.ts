@@ -1,0 +1,16 @@
+export const a98: (color: any) => any;
+export const hsl: (color: any) => any;
+export const hsv: (color: any) => any;
+export const hwb: (color: any) => any;
+export const lab: (color: any) => any;
+export const lab65: (color: any) => any;
+export const lch: (color: any) => any;
+export const lch65: (color: any) => any;
+export const lrgb: (color: any) => any;
+export const p3: (color: any) => any;
+export const prophoto: (color: any) => any;
+export const rec2020: (color: any) => any;
+export const rgb: (color: any) => any;
+export const xyz50: (color: any) => any;
+export const xyz65: (color: any) => any;
+//# sourceMappingURL=css.d.ts.map
